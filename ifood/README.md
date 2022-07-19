@@ -68,8 +68,3 @@ Para executar esse servidor você pode executar o seguinte comando:
 ## :rocket: Expandindo os horizontes
 
 Essa é uma aplicação totalmente escalável, isso significa que além das específicações, após finalizado o desafio, é totalmente possível implementar mais funcionalidades a essa aplicação, e essa será uma ótima maneira para fixar os conhecimentos.
-
-
----
-
-Feito por Joélia Rocha!
